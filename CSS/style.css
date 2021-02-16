@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+  font-family: monospace;
+  background-color: #fffaf3;
+  color: #575279;
+}
+
+#sone {
+  margin: 50px;
+}
+
+h1 {
+  color: #56949f;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+img {
+  max-width: 300px;
+}
+
+li {
+  font-size: 1.5rem;
+}
